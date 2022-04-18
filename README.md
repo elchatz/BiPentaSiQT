@@ -1,4 +1,4 @@
-# qt
+# BiPentaSi_qt
 Dataset for 'Ab initio quantum transport in AB-stacked bilayer penta-silicene using atomic orbitals'
 
 Jupyter notebook plotting the kwant system, dispersion curves and conductance for bilayer penta-silicene.
